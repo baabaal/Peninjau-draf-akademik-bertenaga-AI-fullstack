@@ -1,5 +1,3 @@
-# Peninjau-draf-akademik-bertenaga-AI-fullstack
-
 # Scholar Review — Peninjau Draf Akademik Bertenaga AI
 
 Aplikasi web fullstack (MERN) untuk meninjau draf tesis/disertasi (PDF/DOCX) secara otomatis menggunakan Claude. Hasilnya berupa **Skor Kesiapan (0–100)**, rincian empat kriteria akademik, dan **tabel ulasan per bagian**, lengkap dengan ekspor laporan **DOCX/PDF**.
